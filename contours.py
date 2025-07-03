@@ -4,4 +4,10 @@ img = cv.imread('picture/img 3.jpg')
 
 cv.imshow('CATS', img)
 
+gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
+cv.imshow('GRAY', gray)
+
+canny = cv.Canny(img, 125, 175)
+cv.imshow('CANNY', canny)
+
 cv.waitKey(0)
