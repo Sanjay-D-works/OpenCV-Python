@@ -10,4 +10,6 @@ cv.imshow('GRAY', gray)
 canny = cv.Canny(img, 125, 175)
 cv.imshow('CANNY', canny)
 
+
+cv.imshpw
 cv.waitKey(0)
