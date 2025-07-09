@@ -1,4 +1,5 @@
 🔍 OpenCV-Python: Computer Vision with Python
+
 This repository contains a collection of hands-on computer vision projects and OpenCV implementations using Python. It includes fundamental image processing operations like reading, displaying, transforming, detecting objects, face recognition, and more — ideal for beginners and intermediate learners.
 
 📁 Contents
